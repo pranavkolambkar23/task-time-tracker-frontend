@@ -1,0 +1,9 @@
+/* src/index.css */
+
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  /* Let pages control their own layout */
+}
